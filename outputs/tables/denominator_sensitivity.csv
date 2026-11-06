@@ -1,0 +1,4 @@
+metric,valid_n,eligible_n,valid_base_percent,positive_reports_per_eligible_records_percent,interpretation
+pos_any,39404,40577,23.2402112382,22.3967964029,Alternative retains non-substantive responses in denominator; not an estimated problem rate.
+accept_any,38719,40577,23.5745485986,22.3454505408,Alternative retains non-substantive responses in denominator; not an estimated problem rate.
+online_any,13884,14011,18.0125939412,17.7539343946,Alternative retains non-substantive responses in denominator; not an estimated problem rate.

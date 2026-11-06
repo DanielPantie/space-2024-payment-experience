@@ -1,0 +1,36 @@
+metric,label,period,base,n,n_positive,percent,effective_n_kish,weighted
+pos_any,Any in-store technical problem,Past month,valid_pos,39404,8896,22.5763881839,39404.0000000000,False
+accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,38719,8942,23.0946047160,38719.0000000000,False
+online_any,Any online payment difficulty,Diary day,valid_online,13884,2326,16.7530970902,13884.0000000000,False
+cashless_preference,Prefer cashless payments,General preference,valid_preference,40795,23788,58.3110675328,40795.0000000000,False
+cash_preference,Prefer cash,General preference,valid_preference,40795,8067,19.7744821669,40795.0000000000,False
+no_preference,No clear payment preference,General preference,valid_preference,40795,8940,21.9144503003,40795.0000000000,False
+privacy_any,Any privacy concern,General attitude,valid_privacy,38579,23754,61.5723580186,38579.0000000000,False
+accept_1,Cash not accepted,Past month,valid_acceptance,38719,2532,6.5394250885,38719.0000000000,False
+accept_2,Card/mobile not accepted,Past month,valid_acceptance,38719,5108,13.1924894755,38719.0000000000,False
+accept_3,Card/mobile minimum amount,Past month,valid_acceptance,38719,2525,6.5213461091,38719.0000000000,False
+pos_1,Card payment problem,Past month,valid_pos,39404,5501,13.9605116232,39404.0000000000,False
+pos_2,Mobile payment problem,Past month,valid_pos,39404,2959,7.5093899097,39404.0000000000,False
+pos_3,Cash self-checkout problem,Past month,valid_pos,39404,1456,3.6950563395,39404.0000000000,False
+QB7_1,Entering payment details,Diary day,valid_online,13884,960,6.9144338807,13884.0000000000,False
+QB7_21,Late one-time password,Diary day,valid_online,13884,425,3.0610774993,13884.0000000000,False
+QB7_22,Banking app redirect failed,Diary day,valid_online,13884,538,3.8749639873,13884.0000000000,False
+QB7_23,Authentication details unavailable,Diary day,valid_online,13884,365,2.6289253817,13884.0000000000,False
+QB7_24,Biometrics did not work,Diary day,valid_online,13884,271,1.9518870642,13884.0000000000,False
+QB7_25,Authentication details rejected,Diary day,valid_online,13884,242,1.7430135408,13884.0000000000,False
+QB7_26,Had to download an app,Diary day,valid_online,13884,103,0.7418611351,13884.0000000000,False
+adopt_1,Easier to use,Stated adoption factor,valid_adoption,39940,15499,38.8057085628,39940.0000000000,False
+adopt_2,Cheaper,Stated adoption factor,valid_adoption,39940,13108,32.8192288433,39940.0000000000,False
+adopt_3,Higher security,Stated adoption factor,valid_adoption,39940,15689,39.2814221332,39940.0000000000,False
+adopt_4,More privacy,Stated adoption factor,valid_adoption,39940,11171,27.9694541813,39940.0000000000,False
+adopt_5,Innovative functions,Stated adoption factor,valid_adoption,39940,4491,11.2443665498,39940.0000000000,False
+adopt_6,Faster to use,Stated adoption factor,valid_adoption,39940,9018,22.5788683025,39940.0000000000,False
+adopt_7,Incentives or loyalty,Stated adoption factor,valid_adoption,39940,7967,19.9474211317,39940.0000000000,False
+adopt_8,Friends/family recommendation,Stated adoption factor,valid_adoption,39940,2108,5.2779168753,39940.0000000000,False
+adopt_9,Works offline,Stated adoption factor,valid_adoption,39940,3803,9.5217826740,39940.0000000000,False
+adopt_10,Not interested,Stated adoption factor,valid_adoption,39940,4935,12.3560340511,39940.0000000000,False
+auth_1,Credentials only,Authentication preference,valid_auth,13722,3652,26.6141961813,13722.0000000000,False
+auth_2,Credentials plus extra verification,Authentication preference,valid_auth,13722,6706,48.8704270515,13722.0000000000,False
+auth_3,Biometrics,Authentication preference,valid_auth,13722,3364,24.5153767672,13722.0000000000,False
+privacy_1,Want more private transactions,General attitude,valid_privacy,38579,12312,31.9137354519,38579.0000000000,False
+privacy_2,Concerned about use of data,General attitude,valid_privacy,38579,13407,34.7520671868,38579.0000000000,False

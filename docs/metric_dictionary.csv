@@ -1,0 +1,36 @@
+metric,label,base_flag,positive_source,positive_value,reference_period,definition_type
+pos_any,Any in-store technical problem,valid_pos,"[""QA10_1"", ""QA10_2"", ""QA10_3""]",1,Past month,binary
+accept_any,Preferred method unavailable or restricted,valid_acceptance,"[""QA9_1"", ""QA9_2"", ""QA9_3""]",1,Past month,binary
+online_any,Any online payment difficulty,valid_online,"[""QB7_1"", ""QB7_21"", ""QB7_22"", ""QB7_23"", ""QB7_24"", ""QB7_25"", ""QB7_26""]",1,Diary day,binary
+cashless_preference,Prefer cashless payments,valid_preference,"""QQ3""",2,General preference,category
+cash_preference,Prefer cash,valid_preference,"""QQ3""",1,General preference,category
+no_preference,No clear payment preference,valid_preference,"""QQ3""",3,General preference,category
+privacy_any,Any privacy concern,valid_privacy,"[""QQ16_1"", ""QQ16_2""]",1,General attitude,binary
+accept_1,Cash not accepted,valid_acceptance,"""QA9_1""",1,Past month,binary
+accept_2,Card/mobile not accepted,valid_acceptance,"""QA9_2""",1,Past month,binary
+accept_3,Card/mobile minimum amount,valid_acceptance,"""QA9_3""",1,Past month,binary
+pos_1,Card payment problem,valid_pos,"""QA10_1""",1,Past month,binary
+pos_2,Mobile payment problem,valid_pos,"""QA10_2""",1,Past month,binary
+pos_3,Cash self-checkout problem,valid_pos,"""QA10_3""",1,Past month,binary
+QB7_1,Entering payment details,valid_online,"""QB7_1""",1,Diary day,binary
+QB7_21,Late one-time password,valid_online,"""QB7_21""",1,Diary day,binary
+QB7_22,Banking app redirect failed,valid_online,"""QB7_22""",1,Diary day,binary
+QB7_23,Authentication details unavailable,valid_online,"""QB7_23""",1,Diary day,binary
+QB7_24,Biometrics did not work,valid_online,"""QB7_24""",1,Diary day,binary
+QB7_25,Authentication details rejected,valid_online,"""QB7_25""",1,Diary day,binary
+QB7_26,Had to download an app,valid_online,"""QB7_26""",1,Diary day,binary
+adopt_1,Easier to use,valid_adoption,"""QQ18_1""",1,Stated adoption factor,binary
+adopt_2,Cheaper,valid_adoption,"""QQ18_2""",1,Stated adoption factor,binary
+adopt_3,Higher security,valid_adoption,"""QQ18_3""",1,Stated adoption factor,binary
+adopt_4,More privacy,valid_adoption,"""QQ18_4""",1,Stated adoption factor,binary
+adopt_5,Innovative functions,valid_adoption,"""QQ18_5""",1,Stated adoption factor,binary
+adopt_6,Faster to use,valid_adoption,"""QQ18_6""",1,Stated adoption factor,binary
+adopt_7,Incentives or loyalty,valid_adoption,"""QQ18_7""",1,Stated adoption factor,binary
+adopt_8,Friends/family recommendation,valid_adoption,"""QQ18_8""",1,Stated adoption factor,binary
+adopt_9,Works offline,valid_adoption,"""QQ18_9""",1,Stated adoption factor,binary
+adopt_10,Not interested,valid_adoption,"""QQ18_10""",1,Stated adoption factor,binary
+auth_1,Credentials only,valid_auth,"""QB8""",1,Authentication preference,category
+auth_2,Credentials plus extra verification,valid_auth,"""QB8""",2,Authentication preference,category
+auth_3,Biometrics,valid_auth,"""QB8""",3,Authentication preference,category
+privacy_1,Want more private transactions,valid_privacy,"""QQ16_1""",1,General attitude,binary
+privacy_2,Concerned about use of data,valid_privacy,"""QQ16_2""",1,General attitude,binary

@@ -1,0 +1,169 @@
+CUSTOMER EXPERIENCE IN PAYMENTS
+ECB SPACE 2024. My weighted calculations for 18 countries.
+01 / 10
+23%
+reported technical problems
+when paying in person
+What 40,981 survey responses reveal about
+payment friction and customer needs.
+At least once in the past month. Valid n = 39,404.
+An independent Python case study
+Daniel Pantie
+THE SURVEY
+40,981 consumers.
+18 countries.
+ECB SPACE 2024. My weighted calculations for 18 countries.
+02 / 10
+Real responses from the ECB
+SPACE 2024 public-use file
+ONE ROW PER PERSON
+Payment diary and accompanying questions.
+TWO FIELDWORK ROUNDS
+Autumn 2023 and spring 2024.
+DIFFERENT RECALL PERIODS
+In-store problems: past month.
+Online difficulties: diary-day payments.
+The public file excludes Germany and the Netherlands. Czechia is
+outside the survey.
+PAYMENT CHOICE
+Cashless is the preferred
+option for 58%
+ECB SPACE 2024. My weighted calculations for 18 countries.
+03 / 10
+If offered a choice in a shop:
+Card or other cashless method
+58%
+Cash
+20%
+No clear preference
+22%
+Preference describes what people would like to
+use. It does not measure their actual
+transaction share.
+Valid n = 40,795. General payment preference.
+PAYMENT RELIABILITY
+23% reported in-store
+technical problems
+ECB SPACE 2024. My weighted calculations for 18 countries.
+04 / 10
+At least once in the past month:
+Card payment
+14%
+Mobile payment
+8%
+Cash at self-checkout
+4%
+These are shares of valid respondents, not
+percentages of payments that failed.
+Valid n = 39,404. Multiple answers allowed.
+Each method uses the same response base.
+PAYMENT ACCEPTANCE
+24% faced a restriction
+on their preferred method
+ECB SPACE 2024. My weighted calculations for 18 countries.
+05 / 10
+At least once in the past month:
+Card/mobile not accepted
+13%
+Cash not accepted
+7%
+Card/mobile minimum amount
+7%
+Acceptance policies create a separate
+customer experience problem from technical
+failures.
+Valid n = 38,719 in-store payment respondents.
+Multiple answers allowed.
+ONLINE CHECKOUT
+18% reported difficulty
+with online payments
+ECB SPACE 2024. My weighted calculations for 18 countries.
+06 / 10
+Most frequently selected difficulties:
+Entering payment details
+8%
+Banking app redirect failed
+4%
+Late one-time password
+3%
+Biometrics did not work
+3%
+Bars use a 0-10% scale.
+Payment forms and authentication recovery both
+deserve investigation.
+Valid n = 13,884 online-difficulty respondents.
+Diary-day payments. Multiple answers allowed.
+CUSTOMER NEEDS
+Security and ease lead
+stated adoption factors
+ECB SPACE 2024. My weighted calculations for 18 countries.
+07 / 10
+Higher security
+38%
+Easier to use
+38%
+Cheaper
+33%
+More privacy
+28%
+Innovative functions
+12%
+Security and ease are almost tied. These are
+stated motivations, not measured adoption
+effects.
+Valid n = 39,940. Up to three answers.
+Includes respondents not interested in a new solution.
+AGE DIFFERENCES
+Younger respondents
+report more problems
+ECB SPACE 2024. My weighted calculations for 18 countries.
+08 / 10
+Any in-store technical issue in the past month:
+Age 18-34
+29%
+Age 35-54
+24%
+Age 55+
+20%
+Differences in payment use and exposure may
+contribute. This does not measure digital
+capability.
+Valid n: 10,103 / 13,918 / 15,383.
+Holding country mix fixed gives a similar pattern.
+BUSINESS IMPLICATIONS
+The findings suggest
+three tests
+ECB SPACE 2024. My weighted calculations for 18 countries.
+09 / 10
+01
+Investigate in-store incidents
+Link support cases with terminal, network and
+authorisation logs.
+02
+Test checkout recovery
+Improve form validation and recovery from
+authentication errors.
+03
+Test ease with clear security
+Assess task completion, comprehension and take-up
+in a pilot.
+These are hypotheses to test. The survey does not estimate revenue
+uplift or ROI.
+METHOD AND REPRODUCIBILITY
+The denominator
+changes the story
+ECB SPACE 2024. My weighted calculations for 18 countries.
+10 / 10
+A VALID BASE FOR EACH QUESTION
+Skipped and non-substantive answers stay outside the
+primary percentage.
+WEIGHTED SHARES, ACTUAL COUNTS
+The supplied Gross_weight adjusts the estimates. n counts
+real responses.
+DESCRIPTIVE FINDINGS
+No causal effects or formal significance claims. This is the
+18-country public file.
+The accompanying project includes the executed
+Python notebook, full metric definitions and
+reproducible code.
+Source and documentation: ECB SPACE 2024

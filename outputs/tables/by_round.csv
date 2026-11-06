@@ -1,0 +1,9 @@
+group_column,group,metric,label,period,base,n,n_positive,percent,effective_n_kish,weighted
+round_label,Apr-Jun 2024,pos_any,Any in-store technical problem,Past month,valid_pos,20954,4668,22.2227448610,6701.8623125234,True
+round_label,Apr-Jun 2024,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,20631,4757,23.1385250662,6556.4346700285,True
+round_label,Apr-Jun 2024,online_any,Any online payment difficulty,Diary day,valid_online,7294,1223,17.1413180664,2201.4734372452,True
+round_label,Apr-Jun 2024,cashless_preference,Prefer cashless payments,General preference,valid_preference,21778,12692,57.3194015021,6939.5064516879,True
+round_label,Sep-Nov 2023,pos_any,Any in-store technical problem,Past month,valid_pos,18450,4228,24.4931478637,6002.9017147932,True
+round_label,Sep-Nov 2023,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,18088,4185,24.1153694520,5862.2406932267,True
+round_label,Sep-Nov 2023,online_any,Any online payment difficulty,Diary day,valid_online,6590,1103,19.0936230169,2094.1248247140,True
+round_label,Sep-Nov 2023,cashless_preference,Prefer cashless payments,General preference,valid_preference,19017,11096,57.9084510803,6192.9393386654,True

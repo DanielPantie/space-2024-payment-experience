@@ -1,0 +1,16 @@
+group_column,group,metric,label,period,base,n,n_positive,percent,effective_n_kish,weighted
+age_group,18-34,pos_any,Any in-store technical problem,Past month,valid_pos,10103,2751,28.6254863164,3537.6008513596,True
+age_group,18-34,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,9871,2748,27.9812862664,3444.2320766975,True
+age_group,18-34,online_any,Any online payment difficulty,Diary day,valid_online,3911,857,22.7924760371,1332.0971599929,True
+age_group,18-34,cashless_preference,Prefer cashless payments,General preference,valid_preference,10444,6205,59.4035533517,3647.5931480026,True
+age_group,18-34,privacy_any,Any privacy concern,General attitude,valid_privacy,9874,6213,66.3199611348,3436.2554352225,True
+age_group,35-54,pos_any,Any in-store technical problem,Past month,valid_pos,13918,3192,23.8704698591,4347.8625724607,True
+age_group,35-54,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,13715,3123,23.0712721274,4263.1362226257,True
+age_group,35-54,online_any,Any online payment difficulty,Diary day,valid_online,5264,847,17.9679390364,1574.2290675869,True
+age_group,35-54,cashless_preference,Prefer cashless payments,General preference,valid_preference,14374,8440,58.3314919810,4486.9650836938,True
+age_group,35-54,privacy_any,Any privacy concern,General attitude,valid_privacy,13696,8557,65.8158461048,4280.8001760553,True
+age_group,55+,pos_any,Any in-store technical problem,Past month,valid_pos,15383,2953,19.7282306122,4913.8308410006,True
+age_group,55+,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,15133,3071,21.5296375874,4804.8882676817,True
+age_group,55+,online_any,Any online payment difficulty,Diary day,valid_online,4709,622,14.1507645067,1381.1573037711,True
+age_group,55+,cashless_preference,Prefer cashless payments,General preference,valid_preference,15977,9143,55.9817804560,5094.7724259697,True
+age_group,55+,privacy_any,Any privacy concern,General attitude,valid_privacy,15009,8984,62.3009043791,4753.4193808706,True

@@ -1,0 +1,9 @@
+group_column,group,metric,label,period,base,n,n_positive,percent,effective_n_kish,weighted
+survey_mode,Telephone,pos_any,Any in-store technical problem,Past month,valid_pos,19762,5128,25.6692468162,6945.9348932275,True
+survey_mode,Telephone,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,19086,4921,26.4725141154,6672.8959178543,True
+survey_mode,Telephone,online_any,Any online payment difficulty,Diary day,valid_online,4817,1261,24.5494548662,1614.9596371891,True
+survey_mode,Telephone,cashless_preference,Prefer cashless payments,General preference,valid_preference,20773,12239,60.1565947677,7264.6840915364,True
+survey_mode,Web,pos_any,Any in-store technical problem,Past month,valid_pos,19642,3768,19.7714432770,5829.6572352213,True
+survey_mode,Web,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,19633,4021,19.5507225231,5824.7879985657,True
+survey_mode,Web,online_any,Any online payment difficulty,Diary day,valid_online,9067,1065,13.1688571803,2699.5727125525,True
+survey_mode,Web,cashless_preference,Prefer cashless payments,General preference,valid_preference,20022,11549,53.8059401832,5936.3688044925,True

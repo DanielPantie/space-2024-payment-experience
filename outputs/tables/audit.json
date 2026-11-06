@@ -1,0 +1,85 @@
+{
+  "rows": 40981,
+  "raw_columns": 260,
+  "unique_respondents": 40981,
+  "duplicate_ids": 0,
+  "exact_duplicate_rows": 0,
+  "sha256": "0031ba01493a3e800907adaf83a9d457f9f1bd1cfc2e8ff3842e69ed8ba28b99",
+  "expected_sha256": "0031ba01493a3e800907adaf83a9d457f9f1bd1cfc2e8ff3842e69ed8ba28b99",
+  "countries": {
+    "FR": 5075,
+    "IT": 4088,
+    "ES": 4060,
+    "FI": 3062,
+    "PT": 2583,
+    "BE": 2562,
+    "SK": 2555,
+    "HR": 2546,
+    "AT": 2531,
+    "GR": 2070,
+    "IE": 2043,
+    "EE": 1526,
+    "LU": 1069,
+    "MT": 1063,
+    "SI": 1044,
+    "LV": 1043,
+    "CY": 1036,
+    "LT": 1025
+  },
+  "weight_missing_n": 0,
+  "weight_nonpositive_n": 0,
+  "weight_summary": {
+    "count": 40981.0,
+    "mean": 4908.942241526563,
+    "std": 7134.576572078992,
+    "min": 43.1126945052849,
+    "25%": 1035.77066945416,
+    "50%": 2423.46987492718,
+    "75%": 5643.7726189531,
+    "max": 64346.2110829635
+  },
+  "question_response_audit": {
+    "acceptance": {
+      "selected_any_n": 39123,
+      "all_zero_n": 1858,
+      "all_missing_n": 0,
+      "exclusive_last_option_conflicts_n": 0,
+      "always_with_barrier_conflicts_n": 0
+    },
+    "pos": {
+      "selected_any_n": 39404,
+      "all_zero_n": 1173,
+      "all_missing_n": 404,
+      "exclusive_last_option_conflicts_n": 0
+    },
+    "online": {
+      "selected_any_n": 13884,
+      "all_zero_n": 127,
+      "all_missing_n": 26970,
+      "exclusive_last_option_conflicts_n": 0
+    },
+    "adoption": {
+      "selected_any_n": 39940,
+      "all_zero_n": 1041,
+      "all_missing_n": 0,
+      "exclusive_last_option_conflicts_n": 0,
+      "above_three_selections_n": 0
+    },
+    "privacy": {
+      "selected_any_n": 38665,
+      "all_zero_n": 1821,
+      "all_missing_n": 495,
+      "exclusive_last_option_conflicts_n": 0
+    }
+  },
+  "valid_bases": {
+    "valid_acceptance": 38719,
+    "valid_pos": 39404,
+    "valid_online": 13884,
+    "valid_preference": 40795,
+    "valid_auth": 13722,
+    "valid_adoption": 39940,
+    "valid_privacy": 38579
+  },
+  "online_selected_but_not_diary_online_n": 0
+}

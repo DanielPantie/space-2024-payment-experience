@@ -1,0 +1,91 @@
+group_column,group,metric,label,period,base,n,n_positive,percent,effective_n_kish,weighted
+country_name,Austria,pos_any,Any in-store technical problem,Past month,valid_pos,2445,553,22.4039325669,1757.9578796643,True
+country_name,Austria,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,2379,502,21.2546856784,1708.4997701808,True
+country_name,Austria,online_any,Any online payment difficulty,Diary day,valid_online,914,181,18.4326506107,656.5745063768,True
+country_name,Austria,cashless_preference,Prefer cashless payments,General preference,valid_preference,2515,978,39.3300862655,1806.4645541928,True
+country_name,Austria,privacy_any,Any privacy concern,General attitude,valid_privacy,2386,1325,55.6476866246,1710.3784937116,True
+country_name,Belgium,pos_any,Any in-store technical problem,Past month,valid_pos,2449,525,22.4231057779,1487.8978599659,True
+country_name,Belgium,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,2410,568,24.8855111532,1448.9799806273,True
+country_name,Belgium,online_any,Any online payment difficulty,Diary day,valid_online,852,114,14.7987363007,479.4233061392,True
+country_name,Belgium,cashless_preference,Prefer cashless payments,General preference,valid_preference,2548,1652,65.0047043907,1544.0236810951,True
+country_name,Belgium,privacy_any,Any privacy concern,General attitude,valid_privacy,2419,1429,61.0492109460,1465.0052851212,True
+country_name,Croatia,pos_any,Any in-store technical problem,Past month,valid_pos,2444,491,20.8868754018,1452.0092637144,True
+country_name,Croatia,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,2450,644,24.8338508119,1451.3649751834,True
+country_name,Croatia,online_any,Any online payment difficulty,Diary day,valid_online,1163,252,23.4291296332,676.2202297447,True
+country_name,Croatia,cashless_preference,Prefer cashless payments,General preference,valid_preference,2508,1393,53.2816191920,1487.8089552995,True
+country_name,Croatia,privacy_any,Any privacy concern,General attitude,valid_privacy,2359,1331,57.3334731419,1393.7842931157,True
+country_name,Cyprus,pos_any,Any in-store technical problem,Past month,valid_pos,1016,231,23.2315078674,504.6783586151,True
+country_name,Cyprus,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,965,219,27.7731556828,468.0393213250,True
+country_name,Cyprus,online_any,Any online payment difficulty,Diary day,valid_online,538,74,18.1761223903,242.9124926935,True
+country_name,Cyprus,cashless_preference,Prefer cashless payments,General preference,valid_preference,1036,598,58.5985383136,518.5537826073,True
+country_name,Cyprus,privacy_any,Any privacy concern,General attitude,valid_privacy,970,581,61.1017530511,477.8424464849,True
+country_name,Estonia,pos_any,Any in-store technical problem,Past month,valid_pos,1474,310,19.0932583833,719.4743239632,True
+country_name,Estonia,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,1439,297,19.3806233210,706.7780604510,True
+country_name,Estonia,online_any,Any online payment difficulty,Diary day,valid_online,479,68,12.0303860126,239.3024676914,True
+country_name,Estonia,cashless_preference,Prefer cashless payments,General preference,valid_preference,1514,972,65.9796623274,740.4654762727,True
+country_name,Estonia,privacy_any,Any privacy concern,General attitude,valid_privacy,1413,741,48.7515982039,694.1537877916,True
+country_name,Finland,pos_any,Any in-store technical problem,Past month,valid_pos,2930,602,20.3713045865,2255.4667571635,True
+country_name,Finland,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,2897,537,18.2183662143,2232.7779262885,True
+country_name,Finland,online_any,Any online payment difficulty,Diary day,valid_online,880,132,13.5362063125,707.4292775266,True
+country_name,Finland,cashless_preference,Prefer cashless payments,General preference,valid_preference,3055,2344,76.1025100611,2345.7847382927,True
+country_name,Finland,privacy_any,Any privacy concern,General attitude,valid_privacy,2933,1612,53.6762338867,2253.0746351710,True
+country_name,France,pos_any,Any in-store technical problem,Past month,valid_pos,4886,1126,22.8262894187,2980.0799996965,True
+country_name,France,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,4775,985,21.5728066928,2899.8185769799,True
+country_name,France,online_any,Any online payment difficulty,Diary day,valid_online,1546,295,20.0001473576,935.8263598064,True
+country_name,France,cashless_preference,Prefer cashless payments,General preference,valid_preference,5055,3127,61.1880825093,3085.0348167554,True
+country_name,France,privacy_any,Any privacy concern,General attitude,valid_privacy,4804,3183,66.2507850146,2925.5278406759,True
+country_name,Greece,pos_any,Any in-store technical problem,Past month,valid_pos,1985,500,26.7055083352,1053.3660630946,True
+country_name,Greece,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,1980,493,24.8656793776,1053.6225612815,True
+country_name,Greece,online_any,Any online payment difficulty,Diary day,valid_online,819,92,10.2938996237,398.8845727310,True
+country_name,Greece,cashless_preference,Prefer cashless payments,General preference,valid_preference,2067,1086,55.0416818093,1099.7000358438,True
+country_name,Greece,privacy_any,Any privacy concern,General attitude,valid_privacy,1943,1320,69.0721299059,1033.4109629297,True
+country_name,Ireland,pos_any,Any in-store technical problem,Past month,valid_pos,1973,508,25.1789822536,1545.7249104440,True
+country_name,Ireland,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,1924,465,24.2879101850,1512.2690461229,True
+country_name,Ireland,online_any,Any online payment difficulty,Diary day,valid_online,764,141,19.0340421478,595.9240172964,True
+country_name,Ireland,cashless_preference,Prefer cashless payments,General preference,valid_preference,2037,1022,50.0100279171,1597.6881754486,True
+country_name,Ireland,privacy_any,Any privacy concern,General attitude,valid_privacy,1892,1126,61.0486420731,1478.9896728143,True
+country_name,Italy,pos_any,Any in-store technical problem,Past month,valid_pos,3908,901,23.7170463097,1911.6544780656,True
+country_name,Italy,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,3834,905,24.4504236805,1867.0165154463,True
+country_name,Italy,online_any,Any online payment difficulty,Diary day,valid_online,1310,210,16.7999661762,604.6604018883,True
+country_name,Italy,cashless_preference,Prefer cashless payments,General preference,valid_preference,4078,2473,60.7968327089,2000.9700162747,True
+country_name,Italy,privacy_any,Any privacy concern,General attitude,valid_privacy,3792,2255,60.2139327113,1835.8427327611,True
+country_name,Latvia,pos_any,Any in-store technical problem,Past month,valid_pos,991,245,24.3058211233,726.1759143985,True
+country_name,Latvia,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,971,269,28.0973458326,709.6703550171,True
+country_name,Latvia,online_any,Any online payment difficulty,Diary day,valid_online,338,51,15.4445993237,249.0435416775,True
+country_name,Latvia,cashless_preference,Prefer cashless payments,General preference,valid_preference,1043,649,62.1526782192,767.1700795884,True
+country_name,Latvia,privacy_any,Any privacy concern,General attitude,valid_privacy,997,513,50.7591651260,733.2391470951,True
+country_name,Lithuania,pos_any,Any in-store technical problem,Past month,valid_pos,985,252,22.3707177174,427.7142337807,True
+country_name,Lithuania,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,993,293,25.2887197269,428.8053763436,True
+country_name,Lithuania,online_any,Any online payment difficulty,Diary day,valid_online,378,71,14.6406452240,177.7145351434,True
+country_name,Lithuania,cashless_preference,Prefer cashless payments,General preference,valid_preference,1024,516,50.4614469247,441.4265704133,True
+country_name,Lithuania,privacy_any,Any privacy concern,General attitude,valid_privacy,985,606,58.4683531486,423.4606192342,True
+country_name,Luxembourg,pos_any,Any in-store technical problem,Past month,valid_pos,1032,214,19.7511207198,488.3265121061,True
+country_name,Luxembourg,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,1004,172,16.5109566847,487.5390287022,True
+country_name,Luxembourg,online_any,Any online payment difficulty,Diary day,valid_online,369,53,14.8729747140,174.3037776238,True
+country_name,Luxembourg,cashless_preference,Prefer cashless payments,General preference,valid_preference,1069,720,68.6599649466,504.5407044156,True
+country_name,Luxembourg,privacy_any,Any privacy concern,General attitude,valid_privacy,1007,571,55.1366506349,474.5795550486,True
+country_name,Malta,pos_any,Any in-store technical problem,Past month,valid_pos,1033,238,25.1406273403,634.3772455847,True
+country_name,Malta,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,1010,245,22.4721863859,616.9187085009,True
+country_name,Malta,online_any,Any online payment difficulty,Diary day,valid_online,250,39,18.0833362138,149.8114631558,True
+country_name,Malta,cashless_preference,Prefer cashless payments,General preference,valid_preference,1059,510,46.1502424830,649.3177271403,True
+country_name,Malta,privacy_any,Any privacy concern,General attitude,valid_privacy,1003,611,62.5945275277,613.1894639272,True
+country_name,Portugal,pos_any,Any in-store technical problem,Past month,valid_pos,2484,525,24.3242965054,1165.9778991191,True
+country_name,Portugal,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,2446,552,20.5125385520,1141.6225113078,True
+country_name,Portugal,online_any,Any online payment difficulty,Diary day,valid_online,789,100,13.5850460074,315.5674661367,True
+country_name,Portugal,cashless_preference,Prefer cashless payments,General preference,valid_preference,2580,1569,60.1933696152,1218.2575042104,True
+country_name,Portugal,privacy_any,Any privacy concern,General attitude,valid_privacy,2452,1754,71.6503604141,1162.2859963549,True
+country_name,Slovakia,pos_any,Any in-store technical problem,Past month,valid_pos,2482,582,24.2809078604,1708.5135147306,True
+country_name,Slovakia,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,2403,573,23.5445724844,1652.1590893076,True
+country_name,Slovakia,online_any,Any online payment difficulty,Diary day,valid_online,890,143,16.2774947772,591.9656706149,True
+country_name,Slovakia,cashless_preference,Prefer cashless payments,General preference,valid_preference,2545,1536,58.9715953103,1754.4095902969,True
+country_name,Slovakia,privacy_any,Any privacy concern,General attitude,valid_privacy,2424,1442,59.5282743363,1671.3222561067,True
+country_name,Slovenia,pos_any,Any in-store technical problem,Past month,valid_pos,1001,201,21.6695232088,590.5859485129,True
+country_name,Slovenia,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,993,229,21.5976358369,590.2379173428,True
+country_name,Slovenia,online_any,Any online payment difficulty,Diary day,valid_online,259,44,15.8516970974,159.9104671398,True
+country_name,Slovenia,cashless_preference,Prefer cashless payments,General preference,valid_preference,1044,573,54.0126138273,609.6671208006,True
+country_name,Slovenia,privacy_any,Any privacy concern,General attitude,valid_privacy,980,580,57.9942551134,577.8621272601,True
+country_name,Spain,pos_any,Any in-store technical problem,Past month,valid_pos,3886,892,22.9670207464,2281.0143418652,True
+country_name,Spain,accept_any,Preferred method unavailable or restricted,Past month,valid_acceptance,3846,994,26.0155598269,2244.1871975693,True
+country_name,Spain,online_any,Any online payment difficulty,Diary day,valid_online,1346,266,20.8038765628,756.1724575780,True
+country_name,Spain,cashless_preference,Prefer cashless payments,General preference,valid_preference,4018,2070,49.4348945324,2357.2699834031,True
+country_name,Spain,privacy_any,Any privacy concern,General attitude,valid_privacy,3820,2774,71.6815320898,2236.0466901319,True
